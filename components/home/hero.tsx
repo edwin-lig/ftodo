@@ -10,7 +10,7 @@ export default function Hero() {
           前端开发人员
           <br className='' />
           <br className='hidden lg:inline-block' />
-          我是李凡
+          我是Edwin
         </h1>
         <p className='mb-8 leading-relaxed'>
         专攻视觉设计，对用户体验和设计很敏感。
