@@ -14,19 +14,19 @@ export default function Footer() {
             <p className='text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4'>
               © 2022 — 站点使用 Next.js
               <a
-                href='https://github.com/liliang8858'
+                href='https://github.com/edwin-lig'
                 rel='noopener noreferrer'
                 target='_blank'
                 className='text-gray-600 ml-1'
               >
-                @liliang8858
+                @edwin-lig
               </a>
             </p>
             <span className='inline-flex sm:ml-auto sm:mt-0 mt-4 items-center justify-center sm:justify-start gap-2'>
               
               <a
                 className='text-gray-500'
-                href='https://github.com/liliang8858/ftodo'
+                href='https://github.com/edwin-lig/ftodo'
                 rel='noopener noreferrer'
                 target='_blank'
               >
